@@ -1,0 +1,6 @@
+# ignore image
+*.png
+*.jpg
+
+# ignore sqlite database
+*.sqlite3
