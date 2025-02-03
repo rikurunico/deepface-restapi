@@ -8,3 +8,9 @@
 
 # faiss index
 *.index
+
+# Logging
+*.log
+
+# Pickle 
+*.pkl
