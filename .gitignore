@@ -4,3 +4,7 @@
 
 # ignore sqlite database
 *.sqlite3
+*.sqlite
+
+# faiss index
+*.index
